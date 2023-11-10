@@ -1,1 +1,1 @@
-# next-typescript
+# next-typescript-mongodb
